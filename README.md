@@ -4,8 +4,8 @@ Welcome to `AWSDevCertNotes`! This space is my digital notepad 📓, capturing a
 
 ## Table of Contents 🗂
 
-- [Notes & Summaries](#Notes-&-Summaries)
-- [Discussion & Contributions](#Discussion-&-Contributions)
+- [Notes & Summaries](#notes--summaries)
+- [Discussion & Contributions](#discussion--contributions)
 
 ## Notes-&-Summaries
 
